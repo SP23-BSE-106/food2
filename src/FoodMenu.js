@@ -8,7 +8,7 @@ const foodItemsData = [
     name: 'Pizza',
     description: 'Delicious cheese pizza',
     price: 9.99,
-    image: 'path/to/pizza-image.jpg',
+    image : 'https://i.pinimg.com/474x/1c/e0/34/1ce034a7d5b2cd06e3d2279929b9a9c8.jpg',
     category: 'Non-Vegetarian',
   },
   {
@@ -16,7 +16,7 @@ const foodItemsData = [
     name: 'Salad',
     description: 'Fresh garden salad',
     price: 5.99,
-    image: 'path/to/salad-image.jpg',
+    image: 'https://i.pinimg.com/236x/b5/ea/38/b5ea3849b007144924c3965d93c78f44.jpg',
     category: 'Vegetarian',
   },
   {
@@ -24,7 +24,7 @@ const foodItemsData = [
     name: 'Burger',
     description: 'Juicy beef burger with cheese',
     price: 8.99,
-    image: 'path/to/burger-image.jpg',
+    image: 'https://i.pinimg.com/236x/90/e4/82/90e4824224b82a769281ae3502e92e6c.jpg',
     category: 'Non-Vegetarian',
   },
   {
@@ -32,7 +32,7 @@ const foodItemsData = [
     name: 'Pasta',
     description: 'Creamy Alfredo pasta',
     price: 7.99,
-    image: 'path/to/pasta-image.jpg',
+    image: 'https://i.pinimg.com/474x/06/b3/81/06b38103033f641eeca51f64314ecd4c.jpg',
     category: 'Vegetarian',
   },
   {
@@ -40,7 +40,7 @@ const foodItemsData = [
     name: 'Ice Cream',
     description: 'Rich chocolate ice cream',
     price: 4.99,
-    image: 'path/to/icecream-image.jpg',
+    image: 'https://i.pinimg.com/236x/d7/8b/c5/d78bc5f2b1f196e2c00a8b13bb0ff664.jpg',
     category: 'Dessert',
   },
   {
@@ -48,7 +48,7 @@ const foodItemsData = [
     name: 'Soda',
     description: 'Refreshing soda drink',
     price: 1.99,
-    image: 'path/to/soda-image.jpg',
+    image: 'https://i.pinimg.com/236x/23/42/43/23424317bb4bff6656941d675245bf6f.jpg',
     category: 'Beverage',
   },
   {
@@ -56,7 +56,7 @@ const foodItemsData = [
     name: 'Tacos',
     description: 'Spicy chicken tacos',
     price: 10.99,
-    image: 'path/to/tacos-image.jpg',
+    image: 'https://i.pinimg.com/236x/f5/20/10/f52010f1acafbe3969cc567c41d44865.jpg',
     category: 'Non-Vegetarian',
   },
   {
@@ -64,7 +64,7 @@ const foodItemsData = [
     name: 'Fruit Salad',
     description: 'Mixed seasonal fruits',
     price: 3.99,
-    image: 'path/to/fruitsalad-image.jpg',
+    image: 'https://i.pinimg.com/236x/15/53/f5/1553f507ae736176e250efdc12c43b28.jpg',
     category: 'Vegetarian',
   },
 ];

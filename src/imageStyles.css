@@ -1,0 +1,6 @@
+.food-image {
+    width: 180px !important; /* Fixed width */
+    height: 150px !important; /* Fixed height */
+    border-radius: 5px !important; /* Matches the existing style */
+    object-fit: cover !important; /* Ensures the image covers the area without distortion */
+}

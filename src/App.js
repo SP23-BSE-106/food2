@@ -4,7 +4,7 @@ import FoodMenu from './FoodMenu';
 import Cart from './Cart';
 import CheckoutForm from './CheckoutForm';
 import FeedbackForm from './FeedbackForm';
-import Navbar from './Navbar';
+
 
 function App() {
   const [cart, setCart] = useState([]);
