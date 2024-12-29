@@ -34,7 +34,7 @@ function App() {
 
   return (  
     <div className="App">
-      <Navbar />
+      {/* <Navbar /> */}
       <h1>Food Order System</h1>
       <FoodMenu onAddToCart={handleAddToCart} />
       <Cart cart={cart} onUpdateQuantity={handleUpdateQuantity} />
